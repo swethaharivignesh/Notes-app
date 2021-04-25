@@ -1,0 +1,9 @@
+package com.example.noteapp;
+
+import androidx.recyclerview.widget.RecyclerView;
+
+public class GridSpacingItemDecoration extends RecyclerView.ItemDecoration {
+    public GridSpacingItemDecoration(int i, int dpToPx, boolean b) {
+
+    }
+}
